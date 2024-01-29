@@ -1,19 +1,16 @@
-project:
-  type: website
-
-website:
-  title: "PersonalWebsite"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
-format:
-  html:
-    theme: cosmo
-    css: styles.css
-    toc: true
-
-editor: visual
-
+name: "my-website"
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: index.html
+  #  - text: "About"
+  #    href: about.html
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<>
+    - icon: fa-github fa-lg
+      href: http://github.com/<AleaWM>/
+  output:
+    html_document:
+      theme: darkly

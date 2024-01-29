@@ -1,11 +1,11 @@
 ---
-title: "PersonalWebsite"
+title: "Alea Wilbur-Mujtaba"
 ---
 
-This is a Quarto website.
+Things I would hang on my fridge:
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![](images/bothgraphs.png)
 
-```{r}
-1 + 1
-```
+![](images/Figure1-fiscalgap.png)
+
+![](images/Testing Sites.png)
