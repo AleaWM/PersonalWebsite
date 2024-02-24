@@ -1,0 +1,17 @@
+---
+title: "Alea's Fridge"
+---
+
+Things I would hang on my fridge:
+
+![](images/clipboard-3189661572.png)
+
+![](images/clipboard-2721715046.png)
+
+![](images/bothgraphs.png)
+
+![](images/Figure1-fiscalgap.png)
+
+![](images/Testing%20Sites.png)
+
+I made a really cool loop that calculates tax rates, levies, taxable EAV, etc. for various geographies using data tables from the PTAXSIM package. It's not a pretty picture, but it is one of the most efficient code items I've ever made and I'm still impressed that I did it. [Click this link](https://github.com/AleaWM/CookCounty-PropertyTaxes/blob/main/ptax_pull_loop.R) to be underwhelmed by code that does impressive things!

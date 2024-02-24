@@ -1,16 +1,33 @@
-name: "my-website"
-navbar:
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - fridge.qmd
+
+website:
   title: "My Website"
-  left:
-    - text: "Home"
-      href: index.html
-  #  - text: "About"
-  #    href: about.html
-  right: 
-    - icon: fa-envelope fa-lg
-      href: mailto:<>
-    - icon: fa-github fa-lg
-      href: http://github.com/<AleaWM>/
-  output:
-    html_document:
-      theme: darkly
+  navbar:
+    left:
+      - href: index.qmd
+        text: "About Alea"
+      - fridge.qmd
+    right: 
+      - icon: envelope
+        href: mailto:<>
+      - icon: github
+        href: http://github.com/<AleaWM>/
+      
+format:
+  html:
+    theme: 
+      light: flatly
+      dark: darkly
+    toc: true
+    code-fold: true
+    code-tools: true
+    code-overflow: wrap
+    code-copy: true
+    fig-cap-location: top
+    tbl-cap-location: top
+    df-print: paged

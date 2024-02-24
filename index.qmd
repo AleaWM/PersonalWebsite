@@ -1,11 +1,29 @@
 ---
-title: "Alea Wilbur-Mujtaba"
+title: "About"
 ---
 
-Things I would hang on my fridge:
+I spend too much time playing with data and not enough time writing my dissertation! Yay! This is my attempt at making a personal website.
 
-![](images/bothgraphs.png)
+## Research
 
-![](images/Figure1-fiscalgap.png)
+**Cook County Property Taxes**
 
-![](images/Testing Sites.png)
+I am currently working with CMAP and the Cook County people looking at property taxes using data from the Cook County Assessor's Office. I've been insisting on making all data, findings, code, and bonus content publicly available on GitHub. A website with key findings and tables [can be found here!](https://aleawm.github.io/CookCounty-PropertyTaxes/)
+
+**Fiscal Futures Project**
+
+My little legacy is this GitHub Site and Repository! I joined Fiscal Futures Project in 2021 and transformed the inherited Stata code into R code, while finding errors in past methodology and updating the methodology for the project. Was I asked to do this? No, but I have no chill. What began as personal documentation to track coding logic and my deep dives into the data slowly warped into an RPubs site and then became a full-blown GitHub website.
+
+## Recent Publications:
+
+FY23 Fiscal Futures Annual Report: *Forthcoming March 2024*
+
+Working from Home in Illinois: Who Can and Who Does? by Alea Wilbur-Mujtaba, Francis Choi, Xiaoyan Hu, and David Merriman. February 2024. Institute of Government Affairs. <https://igpa.uillinois.edu/reports/working-from-home-in-illinois-who-can-and-does>.
+
+-   Website containing replication code, additional images, and appendix items can be found on [this GitHub site](https://aleawm.github.io/WorkFromHome/).
+
+Read the FY22 Fiscal Futures Annual Report: [Recovering From a (COVID) Spending Fever](https://igpa.uillinois.edu/wp-content/uploads/2023/03/IGPA_FiscalFuturesCOVID_FeverD.pdf)
+
+-   Recovering from a COVID (Spending) Fever by Alea Wilbur-Mujtaba, Francis Choi, and David Merriman. (2023). Institute of Government and Public Affairs. <https://igpa.uillinois.edu/wp-content/uploads/2023/03/IGPA_FiscalFuturesCOVID_FeverD.pdf>.
+
+-   Check out the website and download the data here: [The Fiscal Futures Project](https://aleawm.github.io/Fiscal-Futures/)
