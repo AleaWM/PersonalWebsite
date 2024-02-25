@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "fridge.html",
-    "href": "fridge.html",
-    "title": "Alea’s Fridge",
+    "objectID": "PublishingWebsiteNotes.html",
+    "href": "PublishingWebsiteNotes.html",
+    "title": "Tips for Publishing a Website on GitHub",
     "section": "",
-    "text": "Things I would hang on my fridge:\n\n\n\n\n\nI made a really cool loop that calculates tax rates, levies, taxable EAV, etc. for various geographies using data tables from the PTAXSIM package. It’s not a pretty picture, but it is one of the most efficient code items I’ve ever made and I’m still impressed that I did it. Click this link to be underwhelmed by code that does impressive things!"
+    "text": "You must fully render the website before you publish it."
+  },
+  {
+    "objectID": "PublishingWebsiteNotes.html#publishing-through-the-terminal",
+    "href": "PublishingWebsiteNotes.html#publishing-through-the-terminal",
+    "title": "Tips for Publishing a Website on GitHub",
+    "section": "Publishing through the Terminal!",
+    "text": "Publishing through the Terminal!\nI typed this into the terminal:\nquarto publish gh-pages\nAnd then was prompted with this:\n\n\n\n\n\n\n\n\n\nTerminal Text\n\n\n\nA new release of Deno is available: 1.28.2 → 1.41.0 Run deno upgrade to install it. ? Publish site to https://AleaWM.github.io/PersonalWebsite/ using gh-pages? (Y/n) » Yes\nSwitched to a new branch ‘gh-pages’\n[gh-pages (root-commit) 7457969] Initializing gh-pages branch\nremote:\nremote: Create a pull request for ‘gh-pages’ on GitHub by visiting:\nremote: https://github.com/AleaWM/PersonalWebsite/pull/new/gh-pages\nremote: To https://github.com/AleaWM/PersonalWebsite.git\n* [new branch] HEAD -&gt; gh-pages\nYour branch is up to date with ‘origin/master’.\nSwitched to branch ‘master’\nFrom https://github.com/AleaWM/PersonalWebsite\n* branch gh-pages -&gt; FETCH_HEAD\nRendering for publish:\n[1/2] index.qmd\n[2/2] fridge.qmd"
   },
   {
     "objectID": "index.html",
@@ -26,5 +33,12 @@
     "title": "About",
     "section": "Recent Publications:",
     "text": "Recent Publications:\nFY23 Fiscal Futures Annual Report: Forthcoming March 2024\nWorking from Home in Illinois: Who Can and Who Does? by Alea Wilbur-Mujtaba, Francis Choi, Xiaoyan Hu, and David Merriman. February 2024. Institute of Government Affairs. https://igpa.uillinois.edu/reports/working-from-home-in-illinois-who-can-and-does.\n\nWebsite containing replication code, additional images, and appendix items can be found on this GitHub site.\n\nRead the FY22 Fiscal Futures Annual Report: Recovering From a (COVID) Spending Fever\n\nRecovering from a COVID (Spending) Fever by Alea Wilbur-Mujtaba, Francis Choi, and David Merriman. (2023). Institute of Government and Public Affairs. https://igpa.uillinois.edu/wp-content/uploads/2023/03/IGPA_FiscalFuturesCOVID_FeverD.pdf.\nCheck out the website and download the data here: The Fiscal Futures Project"
+  },
+  {
+    "objectID": "fridge.html",
+    "href": "fridge.html",
+    "title": "Alea’s Fridge",
+    "section": "",
+    "text": "Things I would hang on my fridge:\n\n\n\n\n\n\n\n\n\n\n\n\n\nI made a really cool loop that calculates tax rates, levies, taxable EAV, etc. for various geographies using data tables from the PTAXSIM package. It’s not a pretty picture, but it is one of the most efficient code items I’ve ever made and I’m still impressed that I did it. Click this link to be underwhelmed by code that does impressive things!"
   }
 ]
