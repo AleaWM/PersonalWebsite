@@ -4,13 +4,18 @@ title: "Alea's Fridge"
 
 Things I would hang on my fridge:
 
+
+:::{layout-ncol=2}
+
 ![](images/clipboard-3189661572.png)
 
 ![](images/clipboard-2721715046.png)
 
-![](images/bothgraphs.png)
+:::
 
-![](images/Figure1-fiscalgap.png)
+![](images/Figure1-fiscalgap.png){width="375"}
+
+![](images/bothgraphs.png)
 
 ![](images/Testing%20Sites.png)
 
