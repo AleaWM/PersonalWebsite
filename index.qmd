@@ -1,8 +1,36 @@
 ---
 title: "About"
+toc: false
+about: 
+  id: hero-heading
+  image: ./images/Wilbur_Alea.jpg
+  template: solana
 ---
 
-I spend too much time playing with data and not enough time writing my dissertation! Yay! This is my attempt at making a personal website.
+:::{#hero-heading}
+
+I spend too much time playing with data and not enough time writing my dissertation! Yay! This is my attempt at making a personal website. I will hopefully make it more "professional" soon.
+
+## Education
+
+University of Illinois Chicago \| Chicago, IL \
+PhD Student in Public Administration \| 2019 - Current
+
+University of Illinois Chicago \| Chicago, IL\
+Master of Public Administration \| Sept 2017 - May 2019
+
+-   Concentration in Public Management
+-   Concentration in Financial Management
+-   Certificate in Emergency Management and Continuity Planning
+-   Certificate in Environmental Studies
+
+University of Wisconsin - Madison \| Madison, WI \
+B.S. Economics with Math Emphasis \| Sept 2012 - May 2016
+
+-   Certificate in Environmental Studies
+
+:::
+
 
 ## Research
 
@@ -13,6 +41,7 @@ I am currently working with CMAP and the Cook County people looking at property 
 **Fiscal Futures Project**
 
 My little legacy is this GitHub Site and Repository! I joined Fiscal Futures Project in 2021 and transformed the inherited Stata code into R code, while finding errors in past methodology and updating the methodology for the project. Was I asked to do this? No, but I have no chill. What began as personal documentation to track coding logic and my deep dives into the data slowly warped into an RPubs site and then became a full-blown GitHub website.
+
 
 ## Recent Publications:
 
@@ -27,3 +56,5 @@ Read the FY22 Fiscal Futures Annual Report: [Recovering From a (COVID) Spending 
 -   Recovering from a COVID (Spending) Fever by Alea Wilbur-Mujtaba, Francis Choi, and David Merriman. (2023). Institute of Government and Public Affairs. <https://igpa.uillinois.edu/wp-content/uploads/2023/03/IGPA_FiscalFuturesCOVID_FeverD.pdf>.
 
 -   Check out the website and download the data here: [The Fiscal Futures Project](https://aleawm.github.io/Fiscal-Futures/)
+
+

@@ -8,18 +8,18 @@ project:
 
 
 website:
-  title: "My Website"
+  title: "Alea Wilbur-Mujtaba"
   navbar:
     left:
       - href: index.qmd
-        text: "About Alea"
+        text: "About"
       - fridge.qmd
       - PublishingWebsiteNotes.qmd
     right: 
       - icon: envelope
-        href: mailto:<>
+        href: awilbu@uic.edu
       - icon: github
-        href: http://github.com/<AleaWM>/
+        href: https://github.com/AleaWM
       
 format:
   html:
