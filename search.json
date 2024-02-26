@@ -4,7 +4,7 @@
     "href": "PublishingWebsiteNotes.html",
     "title": "Tips for Publishing a Website on GitHub",
     "section": "",
-    "text": "You must fully render the website before you publish it."
+    "text": "Personal Website vs Project website\n\nUntil 2/25/24, I had only been using Project Sites for my repositories\n\nex. https://aleawm.github.io/Fiscal-Futures/ goes to a site created for a Project\nlinks ends with whatever the Repository is called\n\nFor this group, I finally created a “User Website”\n\nMakes link short and sweet\nhttps://aleawm.github.io/ goes to my “User Page.” Main perk is the shorter link.\n\n\nYou must fully render the website before you publish it.\n\nin the Terminal, you can do quarto render\nor in the Build tab you can click Render Project/Website/Book (word depends on what type of project you created)"
   },
   {
     "objectID": "PublishingWebsiteNotes.html#publishing-through-the-terminal",
@@ -18,7 +18,14 @@
     "href": "index.html",
     "title": "About",
     "section": "",
-    "text": "I spend too much time playing with data and not enough time writing my dissertation! Yay! This is my attempt at making a personal website."
+    "text": "I spend too much time playing with data and not enough time writing my dissertation! Yay! This is my attempt at making a personal website. I will hopefully make it more “professional” soon.\n\n\nUniversity of Illinois Chicago | Chicago, IL\nPhD Student in Public Administration | 2019 - Current\nUniversity of Illinois Chicago | Chicago, IL\nMaster of Public Administration | Sept 2017 - May 2019\n\nConcentration in Public Management\nConcentration in Financial Management\nCertificate in Emergency Management and Continuity Planning\nCertificate in Environmental Studies\n\nUniversity of Wisconsin - Madison | Madison, WI\nB.S. Economics with Math Emphasis | Sept 2012 - May 2016\n\nCertificate in Environmental Studies"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About",
+    "section": "",
+    "text": "University of Illinois Chicago | Chicago, IL\nPhD Student in Public Administration | 2019 - Current\nUniversity of Illinois Chicago | Chicago, IL\nMaster of Public Administration | Sept 2017 - May 2019\n\nConcentration in Public Management\nConcentration in Financial Management\nCertificate in Emergency Management and Continuity Planning\nCertificate in Environmental Studies\n\nUniversity of Wisconsin - Madison | Madison, WI\nB.S. Economics with Math Emphasis | Sept 2012 - May 2016\n\nCertificate in Environmental Studies"
   },
   {
     "objectID": "index.html#research",
@@ -37,7 +44,7 @@
   {
     "objectID": "fridge.html",
     "href": "fridge.html",
-    "title": "Alea’s Fridge",
+    "title": "Things on My Fridge",
     "section": "",
     "text": "Things I would hang on my fridge:\n\n\n\n\n\n\n\n\n\n\n\n\n\nI made a really cool loop that calculates tax rates, levies, taxable EAV, etc. for various geographies using data tables from the PTAXSIM package. It’s not a pretty picture, but it is one of the most efficient code items I’ve ever made and I’m still impressed that I did it. Click this link to be underwhelmed by code that does impressive things!"
   }
