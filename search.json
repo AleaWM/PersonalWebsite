@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "PublishingWebsiteNotes.html",
-    "href": "PublishingWebsiteNotes.html",
-    "title": "Tips for Publishing a Website on GitHub",
+    "objectID": "fridge.html",
+    "href": "fridge.html",
+    "title": "Things on My Fridge",
     "section": "",
-    "text": "Personal Website vs Project website\n\nUntil 2/25/24, I had only been using Project Sites for my repositories\n\nex. https://aleawm.github.io/Fiscal-Futures/ goes to a site created for a Project\nlinks ends with whatever the Repository is called\n\nFor this group, I finally created a “User Website”\n\nMakes link short and sweet\nhttps://aleawm.github.io/ goes to my “User Page.” Main perk is the shorter link.\n\n\nYou must fully render the website before you publish it.\n\nin the Terminal, you can do quarto render\nor in the Build tab you can click Render Project/Website/Book (word depends on what type of project you created)"
+    "text": "Things I would hang on my fridge:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI made a really cool loop that calculates tax rates, levies, taxable EAV, etc. for various geographies using data tables from the PTAXSIM package. It’s not a pretty picture, but it is one of the most efficient code items I’ve ever made and I’m still impressed that I did it. Click this link to be underwhelmed by code that does impressive things!\nI also did a radio interview on the Working From Home paper: - Radio Interview Schlenker, Charlie. (2024, February 16). McLean County has high potential for work-from-home permanence. [Radio broadcast]. WGLT NPR. Listen and Read Here!."
   },
   {
-    "objectID": "PublishingWebsiteNotes.html#publishing-through-the-terminal",
-    "href": "PublishingWebsiteNotes.html#publishing-through-the-terminal",
-    "title": "Tips for Publishing a Website on GitHub",
-    "section": "Publishing through the Terminal!",
-    "text": "Publishing through the Terminal!\nI typed this into the terminal:\nquarto publish gh-pages\nAnd then was prompted with this:\n\n\n\n\n\n\n\n\n\nTerminal Text\n\n\n\nA new release of Deno is available: 1.28.2 → 1.41.0 Run deno upgrade to install it. ? Publish site to https://AleaWM.github.io/PersonalWebsite/ using gh-pages? (Y/n) » Yes\nSwitched to a new branch ‘gh-pages’\n[gh-pages (root-commit) 7457969] Initializing gh-pages branch\nremote:\nremote: Create a pull request for ‘gh-pages’ on GitHub by visiting:\nremote: https://github.com/AleaWM/PersonalWebsite/pull/new/gh-pages\nremote: To https://github.com/AleaWM/PersonalWebsite.git\n* [new branch] HEAD -&gt; gh-pages\nYour branch is up to date with ‘origin/master’.\nSwitched to branch ‘master’\nFrom https://github.com/AleaWM/PersonalWebsite\n* branch gh-pages -&gt; FETCH_HEAD\nRendering for publish:\n[1/2] index.qmd\n[2/2] fridge.qmd"
+    "objectID": "fridge.html#projects",
+    "href": "fridge.html#projects",
+    "title": "Things on My Fridge",
+    "section": "",
+    "text": "Things I would hang on my fridge:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI made a really cool loop that calculates tax rates, levies, taxable EAV, etc. for various geographies using data tables from the PTAXSIM package. It’s not a pretty picture, but it is one of the most efficient code items I’ve ever made and I’m still impressed that I did it. Click this link to be underwhelmed by code that does impressive things!\nI also did a radio interview on the Working From Home paper: - Radio Interview Schlenker, Charlie. (2024, February 16). McLean County has high potential for work-from-home permanence. [Radio broadcast]. WGLT NPR. Listen and Read Here!."
   },
   {
     "objectID": "index.html",
@@ -28,24 +28,24 @@
     "text": "University of Illinois Chicago | Chicago, IL\nPhD Student in Public Administration | 2019 - Current\nUniversity of Illinois Chicago | Chicago, IL\nMaster of Public Administration | Sept 2017 - May 2019\n\nConcentration in Public Management\nConcentration in Financial Management\nCertificate in Emergency Management and Continuity Planning\nCertificate in Environmental Studies\n\nUniversity of Wisconsin - Madison | Madison, WI\nB.S. Economics with Math Emphasis | Sept 2012 - May 2016\n\nCertificate in Environmental Studies"
   },
   {
-    "objectID": "index.html#research",
-    "href": "index.html#research",
+    "objectID": "index.html#current-research",
+    "href": "index.html#current-research",
     "title": "About",
-    "section": "Research",
-    "text": "Research\nCook County Property Taxes\nI am currently working with CMAP and the Cook County people looking at property taxes using data from the Cook County Assessor’s Office. I’ve been insisting on making all data, findings, code, and bonus content publicly available on GitHub. A website with key findings and tables can be found here!\nFiscal Futures Project\nMy little legacy is this GitHub Site and Repository! I joined Fiscal Futures Project in 2021 and transformed the inherited Stata code into R code, while finding errors in past methodology and updating the methodology for the project. Was I asked to do this? No, but I have no chill. What began as personal documentation to track coding logic and my deep dives into the data slowly warped into an RPubs site and then became a full-blown GitHub website."
+    "section": "Current Research",
+    "text": "Current Research\nUIC’s Government Finance Research Center - Cook County Property Tax Reform Project\nI am currently working with CMAP and the Cook County people looking at property taxes using data from the Cook County Assessor’s Office. I’ve been insisting on making all data, findings, code, and bonus content publicly available on GitHub. A website with key findings and tables can be found here!\nFiscal Futures Project\nMy little legacy is this GitHub Site and Repository! I joined Fiscal Futures Project in 2021 and transformed the inherited Stata code into R code, while finding errors in past methodology and updating the methodology for the project. Was I asked to do this? No, but I have no chill. What began as personal documentation to track coding logic and my deep dives into the data slowly warped into an RPubs site and then became a full-blown GitHub website."
   },
   {
     "objectID": "index.html#recent-publications",
     "href": "index.html#recent-publications",
     "title": "About",
     "section": "Recent Publications:",
-    "text": "Recent Publications:\nFY23 Fiscal Futures Annual Report: Forthcoming March 2024\nWorking from Home in Illinois: Who Can and Who Does? by Alea Wilbur-Mujtaba, Francis Choi, Xiaoyan Hu, and David Merriman. February 2024. Institute of Government Affairs. https://igpa.uillinois.edu/reports/working-from-home-in-illinois-who-can-and-does.\n\nWebsite containing replication code, additional images, and appendix items can be found on this GitHub site.\n\nRead the FY22 Fiscal Futures Annual Report: Recovering From a (COVID) Spending Fever\n\nRecovering from a COVID (Spending) Fever by Alea Wilbur-Mujtaba, Francis Choi, and David Merriman. (2023). Institute of Government and Public Affairs. https://igpa.uillinois.edu/wp-content/uploads/2023/03/IGPA_FiscalFuturesCOVID_FeverD.pdf.\nCheck out the website and download the data here: The Fiscal Futures Project"
+    "text": "Recent Publications:\nFinding the Balance: State Fiscal Sustainability and Local Government Challenges, by Alea Wilbur-Mujtaba, Francis Choi, Rick Funderburg, Xiaoyan Hu, Paula R. Worthington, Yonghong Wu, Chen Xie, & David Merriman. May 2024. Institute of Government and Public Affairs. https://igpa.uillinois.edu/reports/finding-the-balance-state-fiscal-sustainability-and-local-government-fiscal-challenges.\nWorking from Home in Illinois: Who Can and Who Does? by Alea Wilbur-Mujtaba, Francis Choi, Xiaoyan Hu, and David Merriman. February 2024. Institute of Government and Public Affairs. https://igpa.uillinois.edu/reports/working-from-home-in-illinois-who-can-and-does.\n\nWebsite containing replication code, additional images, and appendix items can be found on this GitHub site.\n\nRead the FY22 Fiscal Futures Annual Report: Recovering From a (COVID) Spending Fever\n\nRecovering from a COVID (Spending) Fever by Alea Wilbur-Mujtaba, Francis Choi, and David Merriman. (2023). Institute of Government and Public Affairs. https://igpa.uillinois.edu/wp-content/uploads/2023/03/IGPA_FiscalFuturesCOVID_FeverD.pdf.\nCheck out the website and download the data here: The Fiscal Futures Project"
   },
   {
-    "objectID": "fridge.html",
-    "href": "fridge.html",
-    "title": "Things on My Fridge",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Papers",
     "section": "",
-    "text": "Things I would hang on my fridge:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI made a really cool loop that calculates tax rates, levies, taxable EAV, etc. for various geographies using data tables from the PTAXSIM package. It’s not a pretty picture, but it is one of the most efficient code items I’ve ever made and I’m still impressed that I did it. Click this link to be underwhelmed by code that does impressive things!"
+    "text": "2024\n\n\nAlea Wilbur-Mujtaba, Francis Choi, Rick Funderburg, Xiaoyan Hu, Paula R. Worthington, Yonghong Wu, Chen Xie, and David Merriman. (2024). “Finding the Balance: State Fiscal Sustainability and Local Government Challenges.” Institute of Government and Public Affairs.    Github    Read Paper \n\n\nAlea Wilbur-Mujtaba, Francis Choi, Xiaoyan Hu, and David Merriman. (2024). “Working from Home in Illinois: Who Can and Who Does?.” Institute of Government and Public Affairs.    Github    Read Paper \n\n\nGFRC & CMAP team. (2024). “Extended Analysis of Selected Benefits and Costs.” Government Finance Research Center.    Github    Read Paper \n\n\nGFRC & CMAP team. (2024). “Current and Future Use of Homestead Exemptions.” Government Finance Research Center.    Github    Read Paper \n\n\n2023\n\n\nFrancis Choi and Alea Wilbur-Mujtaba. (2023). “What Happened to Illinois’ Open Data Movement.” Institute of Government and Public Affairs.    Read Paper \n\n\nAlea Wilbur-Mujtaba, Francis Choi, and David Merriman. (2023). “Recovering from COVID (Spending) Fever.” Institute of Government and Public Affairs.    Github    Read Paper \n\n\nFrancis Choi and Alea Wilbur-Mujtaba. (2023). “Fiscal Futures 2021: Maintaining Fiscal Sustainability After an Influx of Federal Funds.” Institute of Government and Public Affairs.    Read Paper \n\n\n2022\n\n\nDavid Merriman, Xiaoyan Hu, and Alea Wilbur-Mujtaba. (2022). “Why does Illinois’ Unemployment Insurance Trust Fund have a large deficit?.” Institute of Government and Public Affairs.    Read Paper \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[object Object]\n\n\n[object Object]\n\n\n[object Object]\n\n\n[object Object]\n\n\n[object Object]\n\n\n[object Object]\n\n\n[object Object]\n\n\n[object Object]\n\n\n\n\n\n\nNo matching items"
   }
 ]
